@@ -1,0 +1,16 @@
+{
+    "name": "ArticleEmailNotSent",
+    "version": "4.0.1",
+    "framework": [
+        "4.0.x"
+    ],
+    "vendor": {
+        "name":  "Perl-Services.de",
+        "url": "http://www.perl-services.de"
+    },
+    "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007",
+    "description" : {
+        "en": "Create an article when an email could not be sent",
+        "de": "Erstellt einen Artikel wenn eine Mail nicht gesendet werden kann"
+    }
+}
